@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+     }
+    h1{
+    color:blue;
+    text-align:center;
+    font-weight:bold;
+    }
+
+    .one{
+        background-color: white;
+        width:36vw;
+        height:65vh;
+        margin-left:26.5rem;
+        border-radius: 5px;
+        margin-bottom: 2rem;
+    }
+    p{
+        padding-top:25px;
+        text-align:center;  
+      }
+      .two{
+        margin-left:2rem;
+        background-color:white ;
+       border-radius:5%;
+   }
+   .spacing{
+    margin: 0;
+}
+.three{
+ margin-left:32px;
+ background-color:white;
+ border-radius: 5px;
+}
+.button{
+    color:white;
+    text-align:center;
+    background-color:blue;
+    width:30.5vw;
+    height:6vh;
+     margin-right:5px;
+     border-radius: 5px;
+   }
+   .four{
+    margin-left:205px;
+}
+.button2{
+    color:white;
+    text-align:center;
+    background-color:green;
+    width:20vw;
+    height:6vh;
+    margin-left:7rem;
+    border-radius: 5px;
+}
